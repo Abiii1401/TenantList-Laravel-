@@ -154,9 +154,9 @@ hr {
     background-color: #f9f9f9;
 }
 
-.tenant-table td:last-child {
-    text-align: center;
-}
+/* .tenant-table td:last-child {
+text-align: center; 
+} */
 
 /* Delete Link */
 .delete-link {
